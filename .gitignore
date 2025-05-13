@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+*.pt
+*.pth
+*.bin
+*.h5
+*.hdf5
+*.ckpt
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.csv
+*.tsv
+*.json
+*.jsonl
+*.txt
+!requirements.txt
+!README.txt 
